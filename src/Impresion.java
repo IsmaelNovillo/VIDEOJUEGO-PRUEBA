@@ -14,7 +14,7 @@ public class Impresion {
         System.out.println("Uso de un get");//enunciado para get
         System.out.println("Mario Kart es un juego de tipo "+marioKart.getCategoria());// se llama al metodo get categoria para mario
 
-
+        // Mostrar los valores de cada instancia
         good_of_war.mostrar();
         marioKart.mostrar();
         Street.mostrar();
